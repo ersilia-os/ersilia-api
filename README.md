@@ -1,5 +1,7 @@
 # ersilia-api 🌍
 
+⚠️ THIS IS AN EXPERIMENTAL PROJECT ⚠️
+
 Ersilia as a REST API for service to service operations
 
 ## Development
