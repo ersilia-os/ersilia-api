@@ -9,6 +9,7 @@ dev = "uvicorn main:app --reload --port 8000"
 [packages]
 fastapi = "*"
 uvicorn = {extras = ["standard"], version = "*"}
+ersilia = "*"
 
 [dev-packages]
 
