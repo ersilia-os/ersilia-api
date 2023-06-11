@@ -10,6 +10,7 @@ dev = "uvicorn main:app --reload --port 8000"
 fastapi = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 ersilia = "*"
+bentoml = "*"
 
 [dev-packages]
 
